@@ -105,22 +105,22 @@ input:checked + label .description
 
 .card[for="c1"]
 {
-    background-image: url(images/winter.jpg);
+    background-image: url(/images/winter.jpg);
 }
 
 .card[for="c2"]
 {
-    background-image: url(images/techno.jpg);
+    background-image: url(/images/techno.jpg);
 }
 
 .card[for="c3"]
 {
-    background-image: url(images/global.jpg);
+    background-image: url(/images/global.jpg);
 }
 
 .card[for="c4"]
 {
-    background-image: url(images/cosmos.jpg);
+    background-image: url(/images/cosmos.jpg);
 }
 
 
